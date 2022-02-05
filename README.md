@@ -1,3 +1,6 @@
+## Blog
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mkdelta)
+
 ## Cloud Providers
 ![AWS](https://img.shields.io/badge/AWS-%23FFBB00.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
